@@ -7,7 +7,7 @@ namespace LuhnChallenge
     {
         public bool IsValidCardNumber(string inputString)
         {
-            throw new NotImplementedException("This is the method you need to implement");
+            throw new NotImplementedException("Your code goes here...")
         }
     }
 }
