@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace LuhnChallenge
 {
@@ -7,7 +6,7 @@ namespace LuhnChallenge
     {
         public bool IsValidCardNumber(string inputString)
         {
-            throw new NotImplementedException("Your code goes here...")
+            throw new NotImplementedException("Your code goes here...");
         }
     }
 }

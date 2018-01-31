@@ -1,5 +1,4 @@
-﻿
-namespace LuhnChallenge
+﻿namespace LuhnChallenge
 {
     public interface ILuhnCheck
     {
