@@ -1,8 +1,6 @@
-﻿
-namespace LuhnChallenge
+﻿namespace LuhnChallenge;
+
+public interface ILuhnCheck
 {
-    public interface ILuhnCheck
-    {
-        bool IsValidCardNumber(string inputString);
-    }
+    bool IsValidCardNumber(string inputString);
 }

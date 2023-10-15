@@ -1,13 +1,9 @@
-﻿
-using System;
+﻿namespace LuhnChallenge;
 
-namespace LuhnChallenge
+public class LuhnCheckEmpty : ILuhnCheck
 {
-    public class LuhnCheckEmpty : ILuhnCheck
+    public bool IsValidCardNumber(string inputString)
     {
-        public bool IsValidCardNumber(string inputString)
-        {
-            throw new NotImplementedException("This is the method you need to implement");
-        }
+        throw new NotImplementedException("Your code goes here...");
     }
 }
